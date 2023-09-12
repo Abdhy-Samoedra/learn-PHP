@@ -1,3 +1,7 @@
+<?php
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +10,11 @@
     <title>Document</title>
 </head>
 <body>
-    test
+
+<h1>Daftar Mahasiswa</h1>
+<ul>
+    <?php  
+</ul>
+    
 </body>
 </html>
