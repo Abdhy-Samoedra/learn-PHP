@@ -13,7 +13,8 @@
 
 <h1>Daftar Mahasiswa</h1>
 <ul>
-    <?php  
+    <?php
+    ?>
 </ul>
     
 </body>
